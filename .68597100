@@ -1,0 +1,8 @@
+printf "
+
+$gr Bienvenido 
+
+$ce 00 $ve 00
+$ce 00 $ve 00
+
+$re"
